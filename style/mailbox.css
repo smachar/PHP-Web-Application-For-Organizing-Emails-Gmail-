@@ -1,0 +1,46 @@
+
+.center{
+    margin: auto;
+    width: 39%;
+}
+body{
+    background: #696969;
+    font-size: larger
+}
+input{
+    width: 80%;
+    height: 40px;
+    margin: 10px;
+}
+.button>button{
+    width: 200px;
+    height: 50px;
+}
+.button{
+    margin-left: 14%;
+}
+h1{
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+.field{
+    display: grid;
+}
+label{
+    font-size: larger;
+}
+
+.errors {
+    display: inline-block;
+    border: 2px solid red;
+    padding: 1em;
+    margin-bottom: 1em;
+      font-size: 70%;
+      margin:  0 30%;
+  }
+  
+.errors ul {
+    margin-bottom: 0;
+    padding-left: 1em;
+  }

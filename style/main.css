@@ -1,0 +1,38 @@
+
+.center{
+  display: flex;
+  justify-content: center;
+  margin-top:15%;
+  margin-left: 10%;
+}
+#btnerr{ background-color: #EA3C53;}
+button{
+  background-color: #87FFBF;
+  border: none;
+  color: black;
+  padding: 16px 20%;
+  cursor: pointer;
+}
+body{
+  background: #696969;
+}
+input{
+  margin: 10px 0;
+  padding: 16px 10%;
+}
+a{
+  margin-top: 5%;
+}
+.text{
+  margin: 5%;
+  display: grid;
+  gap: 8px;
+}
+.text>#texterr{
+ background-color:#EA3C53;
+}
+.small-text{
+  font-size: 100%;
+  border-bottom: solid white 5px;
+  padding-bottom: 5px;
+}
