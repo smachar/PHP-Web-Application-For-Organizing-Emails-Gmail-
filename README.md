@@ -1,7 +1,6 @@
 # PHP Web Application For Organizing Emails(Gmail)
 
-I worked on this project in the final semester of the second year.
-It's a web application that helps Gmail users to organize their emails by simply classifying them automatically into the user predefined boxes. After the user defines his/her set of boxes using multiple criteria, all the incoming emails will be classified according to this set of boxes. Furthermore, the user can see his/her emails in his/her dashboard and sort, navigate and search (advanced) them, but for further functionalities like "replay" and "send email" the user should go to his/her Gmail account.
+This is a web application that helps Gmail users to organize their emails by simply classifying them automatically into the user predefined boxes. After the user defines his/her set of boxes using multiple criteria, all the incoming emails will be classified according to this set of boxes. Furthermore, the user can see his/her emails in his/her dashboard and sort, navigate and search (advanced) them, but for further functionalities like "replay" and "send email" the user should go to his/her Gmail account.
 
 The objective of this project was to apply all that I've been learning during my program including Programming and Algorithms concepts, Databases Management (ER diagrams and SQL), and of course Web Development and Networking, the idea was to build something even if it's simple but from scratch without using any fancy libraries, just HTML/CSS/JS and PHP, pure web technologies.
 
